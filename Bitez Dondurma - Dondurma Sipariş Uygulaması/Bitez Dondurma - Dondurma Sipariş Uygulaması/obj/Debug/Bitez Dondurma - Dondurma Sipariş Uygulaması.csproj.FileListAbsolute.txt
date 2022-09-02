@@ -1,0 +1,32 @@
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe.config
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csprojAssemblyReference.cache
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.Form1.resources
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.Properties.Resources.resources
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.GenerateResource.cache
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.CoreCompileInputs.cache
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\c# analiz tasarım\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe.config
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.GirisForm.resources
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.SiparisForm.resources
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.Properties.Resources.resources
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\Users\90553\Desktop\Proje Tasarımı Ve Analizi\192106035 Emrecan Yıldırım Vize\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe.config
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\bin\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csprojAssemblyReference.cache
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.GirisForm.resources
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.SiparisForm.resources
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez_Dondurma___Dondurma_Sipariş_Uygulaması.Properties.Resources.resources
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.GenerateResource.cache
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.exe
+C:\Bitez Dondurma - Dondurma Sipariş Uygulaması\Bitez Dondurma - Dondurma Sipariş Uygulaması\obj\Debug\Bitez Dondurma - Dondurma Sipariş Uygulaması.pdb
